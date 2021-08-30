@@ -33,11 +33,6 @@ static List questionAnswers = [
           "Một người nhiễm virus Corona có thể xuất hiện các triệu chứng đầu tiên sau thời gian ủ bệnh khoảng 2-14 ngày, trung bình là 5 ngày. Trong thời gian ủ bệnh, virus vẫn có thể lây truyền gây nhiễm bệnh. VNVC đã chuẩn bị sẵn 1 bài viết về thời gian ủ bệnh virus Corona cho bạn tham khảo."
            },
     {
-      "question": "Can CoVID-19 be caught from a person who has no symptoms?",
-      "answer":
-          "The main way the disease spreads is through respiratory droplets expelled by someone who is coughing. The risk of catching COVID-19 from someone with no symptoms at all is very low. However, many people with COVID-19 experience only mild symptoms. This is particularly true at the early stages of the disease. It is therefore possible to catch COVID-19 from someone who has, for example, just a mild cough and does not feel ill.  WHO is assessing ongoing research on the period of transmission of COVID-19 and will continue to share updated findings.    "
-    },
-    {
       "question":
           "Triệu chứng vi rút Corona qua từng ngày",
       "answer":
